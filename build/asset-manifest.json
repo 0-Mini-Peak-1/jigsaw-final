@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27fa6039.css",
+    "main.js": "/static/js/main.a98388f5.js",
+    "static/media/MicrosoftTeams-image-38-1.webp": "/static/media/MicrosoftTeams-image-38-1.ebe8dd8ad3505cfedac0.webp",
+    "index.html": "/index.html",
+    "main.27fa6039.css.map": "/static/css/main.27fa6039.css.map",
+    "main.a98388f5.js.map": "/static/js/main.a98388f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27fa6039.css",
+    "static/js/main.a98388f5.js"
+  ]
+}
